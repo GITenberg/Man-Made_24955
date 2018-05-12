@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '24789'
     url: http://www.gutenberg.org/2009/agents/24789
 description: Cover; Title Page; Copyright Page; Man Made.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24955#Man-Made
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2008-03-30'
 gutenberg_type: Text
