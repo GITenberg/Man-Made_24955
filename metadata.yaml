@@ -1,0 +1,28 @@
+_repo: Man-Made_24955
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Teichner, Albert
+    alias: Teichner, Albert R.
+    gutenberg_agent_id: '24789'
+    url: http://www.gutenberg.org/2009/agents/24789
+description: Cover; Title Page; Copyright Page; Man Made.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24955'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction, American'
+- !lcsh 'Medical fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Man Made
+url: http://www.gutenberg.org/ebooks/24955
